@@ -6,7 +6,7 @@ from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import sessions
 import requests,json,time,threading
-password ="LTEMX2"
+password ="HEÈ"
 os.system("clear")
 os.system("figlet password")
 print("")
@@ -25,7 +25,7 @@ for i in range(3):
         print("\033[1;96mรหัสมึงไม่ถูกแล้วมึงก็ไม่หารหัสมาใส่ดิไอ้ควย\033[1;97m",i-l)
 os.system("clear")
 os.system("figlet S   P   A   M   S   M   S")
-print ("\tยิงเบอร์ 2.0")
+print ("\tยิงแตด 2.0")
 print("    เครดิตFB :\033[1;96mhttps://www.facebook.com/siraphop.nbshop/033[1;97m                                      			")
 print("               ยิงตามบาย")
 print ("           YouTube: \033[1;96mLTEMX2\033[1;97m")
@@ -34,7 +34,7 @@ print("Ferr Free Free Free Free")
 print("ขายพ่องตาย ขายพ่องตาย ขายพ่องตาย")
 session = requests.Session()
 print ("\033[90m>\033[1;97m ตัวอย่าง: \033[1;92m66857×××××××××")
-number = input("\033[90m> \033[1;97mใส่เบอร์เป้าหมาย: \033[1;92m")
+number = input("\033[90m> \033[1;97mใส่เบอร์ที่จะยิง: \033[1;92m")
 print("ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ")
 num = int(input("\033[90m> \033[1;97mจำนวน: \033[1;92m"))
 num = int("" + number)
