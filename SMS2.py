@@ -6,15 +6,15 @@ from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import sessions
 import requests,json,time,threading
-password ="LTEMX2"
+password ="BALLX2"
 os.system("clear")
 os.system("figlet password")
 print("")
 print("")
-print("    เครดิตFB :\033[1;96mhttps://www.facebook.com/siraphop.nbshop/033[1;97m")
+print("    เครดิต :เพื่อเทอจุ้บๆ[1;97m")
 print("")
-print("กดติดตามช่องกุด้วย")
-print("ฟรีไงไอ้สัส")
+print("กดติดตามด้วย")
+print("ฟรีนะเพื่อเทอ")
 for i in range(3):
     pwd = input ("Enter the password : ")
     l=3
@@ -22,20 +22,20 @@ for i in range(3):
      print("ACCES GRANTED")
      break
     else:
-        print("\033[1;96mรหัสมึงไม่ถูกแล้วมึงก็ไม่หารหัสมาใส่ดิไอ้ควย\033[1;97m",i-l)
+        print("\033[1;96mรหัสผิดใส่ไหม่ไอสัส\033[1;97m",i-l)
 os.system("clear")
-os.system("figlet S   P   A   M   S   M   S")
-print ("\tยิงเบอร์ 2.0")
-print("    เครดิตFB :\033[1;96mhttps://www.facebook.com/siraphop.nbshop/033[1;97m                                      			")
+os.system("figlet B   A   L   L   X   2   ©")
+print ("\tยิงSMS 1.0")
+print("    เครดิต :เพื่อเอาจุ้บๆ[1;97m                                      			")
 print("               ยิงตามบาย")
-print ("           YouTube: \033[1;96mLTEMX2\033[1;97m")
-print ("          \033[1;96m S  P  A  M  S  M  S\033[1;97m")
-print("Ferr Free Free Free Free")
+print ("           YouTube: \033[1;96mBALL\033[1;97m")
+print ("          \033[1;96m   S  M  S\033[1;97m")
+print("รอ รอ รอ รอ รอ รอ รอ รอ")
 print("ขายพ่องตาย ขายพ่องตาย ขายพ่องตาย")
 session = requests.Session()
-print ("\033[90m>\033[1;97m ตัวอย่าง: \033[1;92m66857×××××××××")
-number = input("\033[90m> \033[1;97mใส่เบอร์เป้าหมาย: \033[1;92m")
-print("ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ")
+print ("\033[90m>\033[1;97m ตัวอย่าง: \033[1;92m66956784328)
+number = input("\033[90m> \033[1;97mเบอร์ที่จะยิง: \033[1;92m")
+print("แปปนึงขี้ก่อน ")
 num = int(input("\033[90m> \033[1;97mจำนวน: \033[1;92m"))
 num = int("" + number)
 class SMS():
@@ -67,19 +67,19 @@ class SMS():
         #     print(send.get("msg"))
 os.system("clear")
 print ("กำลังรัน....")
-print ("ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ")
+print ("แปปนึง ")
 print ("")
 print ("")
 t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล่ว [AISP_Play]ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ")
+        print("ยิงแล้ว1ข้อความ [BALL_X2]ต้องการหยุดกด CTRL+c ")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล่ว [AISP_Play]ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ฟรีไงสัส ")
+        print("ยิงแล้ว1ข้อความ [BALL_X2]ต้องการหยุดกด CTRL+c ")
 loop(num)
 
 
